@@ -17,8 +17,8 @@ This project demonstrates the integration of the Braccio Robot Arm with a joysti
 
 # Photos
 <p float="left">
-  <img src="resources/photo-1.jpg" alt="Photo 1" width="300">
-  <img src="resources/photo-2.jpg" alt="Photo 2" width="300">
-  <img src="resources/photo-2.jpg" alt="Photo 3" width="300">
+  <img src="resources/photo-1.jpg" alt="Photo 1" width="290">
+  <img src="resources/photo-2.jpg" alt="Photo 2" width="290">
+  <img src="resources/photo-2.jpg" alt="Photo 3" width="290">
 </p>
 <br>
